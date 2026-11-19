@@ -1,0 +1,1041 @@
+{
+  "app": "Urdu Quran Audio",
+  "version": "1.0",
+  "translator": "Fateh Muhammad Jalandhari",
+  "language": "Urdu",
+  "source": {
+    "channel": "True Islam",
+    "playlist": "https://youtube.com/playlist?list=PLjMdlvowxr_0XqrqKSvbvcKd4562mnonS"
+  },
+  "count": 114,
+  "total_duration_seconds": 64384.97,
+  "total_size_bytes": 772707690,
+  "surahs": [
+    {
+      "number": 1,
+      "name_en": "Al-Fatiha",
+      "name_ar": "الفاتحة",
+      "file": "001-al-fatiha.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/001-al-fatiha.mp3",
+      "duration_seconds": 34.08,
+      "size_bytes": 409581
+    },
+    {
+      "number": 2,
+      "name_en": "Al-Baqarah",
+      "name_ar": "البقرة",
+      "file": "002-al-baqarah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/002-al-baqarah.mp3",
+      "duration_seconds": 5201.1,
+      "size_bytes": 62413965
+    },
+    {
+      "number": 3,
+      "name_en": "Aal-e-Imran",
+      "name_ar": "آل عمران",
+      "file": "003-aal-e-imran.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/003-aal-e-imran.mp3",
+      "duration_seconds": 2814.78,
+      "size_bytes": 33778125
+    },
+    {
+      "number": 4,
+      "name_en": "An-Nisa",
+      "name_ar": "النساء",
+      "file": "004-an-nisa.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/004-an-nisa.mp3",
+      "duration_seconds": 3029.24,
+      "size_bytes": 36351693
+    },
+    {
+      "number": 5,
+      "name_en": "Al-Ma'idah",
+      "name_ar": "المائدة",
+      "file": "005-al-maidah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/005-al-maidah.mp3",
+      "duration_seconds": 2221.05,
+      "size_bytes": 26653293
+    },
+    {
+      "number": 6,
+      "name_en": "Al-An'am",
+      "name_ar": "الأنعام",
+      "file": "006-al-anam.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/006-al-anam.mp3",
+      "duration_seconds": 2561.85,
+      "size_bytes": 30742893
+    },
+    {
+      "number": 7,
+      "name_en": "Al-A'raf",
+      "name_ar": "الأعراف",
+      "file": "007-al-araf.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/007-al-araf.mp3",
+      "duration_seconds": 2784.83,
+      "size_bytes": 33418701
+    },
+    {
+      "number": 8,
+      "name_en": "Al-Anfal",
+      "name_ar": "الأنفال",
+      "file": "008-al-anfal.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/008-al-anfal.mp3",
+      "duration_seconds": 1033.94,
+      "size_bytes": 12407949
+    },
+    {
+      "number": 9,
+      "name_en": "At-Taubah",
+      "name_ar": "التوبة",
+      "file": "009-at-taubah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/009-at-taubah.mp3",
+      "duration_seconds": 2026.74,
+      "size_bytes": 24321645
+    },
+    {
+      "number": 10,
+      "name_en": "Yunus",
+      "name_ar": "يونس",
+      "file": "010-yunus.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/010-yunus.mp3",
+      "duration_seconds": 1434.61,
+      "size_bytes": 17216109
+    },
+    {
+      "number": 11,
+      "name_en": "Hud",
+      "name_ar": "هود",
+      "file": "011-hud.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/011-hud.mp3",
+      "duration_seconds": 1567.94,
+      "size_bytes": 18815949
+    },
+    {
+      "number": 12,
+      "name_en": "Yusuf",
+      "name_ar": "يوسف",
+      "file": "012-yusuf.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/012-yusuf.mp3",
+      "duration_seconds": 1473.39,
+      "size_bytes": 17681517
+    },
+    {
+      "number": 13,
+      "name_en": "Ar-Ra'd",
+      "name_ar": "الرعد",
+      "file": "013-ar-rad.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/013-ar-rad.mp3",
+      "duration_seconds": 741.89,
+      "size_bytes": 8903565
+    },
+    {
+      "number": 14,
+      "name_en": "Ibrahim",
+      "name_ar": "إبراهيم",
+      "file": "014-ibrahim.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/014-ibrahim.mp3",
+      "duration_seconds": 728.35,
+      "size_bytes": 8740845
+    },
+    {
+      "number": 15,
+      "name_en": "Al-Hijr",
+      "name_ar": "الحجر",
+      "file": "015-al-hijr.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/015-al-hijr.mp3",
+      "duration_seconds": 560.45,
+      "size_bytes": 6726285
+    },
+    {
+      "number": 16,
+      "name_en": "An-Nahl",
+      "name_ar": "النحل",
+      "file": "016-an-nahl.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/016-an-nahl.mp3",
+      "duration_seconds": 1454.09,
+      "size_bytes": 17449965
+    },
+    {
+      "number": 17,
+      "name_en": "Al-Isra",
+      "name_ar": "الإسراء",
+      "file": "017-al-isra.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/017-al-isra.mp3",
+      "duration_seconds": 1293.32,
+      "size_bytes": 15520653
+    },
+    {
+      "number": 18,
+      "name_en": "Al-Kahf",
+      "name_ar": "الكهف",
+      "file": "018-al-kahf.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/018-al-kahf.mp3",
+      "duration_seconds": 1273.74,
+      "size_bytes": 15285645
+    },
+    {
+      "number": 19,
+      "name_en": "Maryam",
+      "name_ar": "مريم",
+      "file": "019-maryam.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/019-maryam.mp3",
+      "duration_seconds": 766.83,
+      "size_bytes": 9202797
+    },
+    {
+      "number": 20,
+      "name_en": "Ta-Ha",
+      "name_ar": "طه",
+      "file": "020-ta-ha.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/020-ta-ha.mp3",
+      "duration_seconds": 1113.15,
+      "size_bytes": 13358637
+    },
+    {
+      "number": 21,
+      "name_en": "Al-Anbiya",
+      "name_ar": "الأنبياء",
+      "file": "021-al-anbiya.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/021-al-anbiya.mp3",
+      "duration_seconds": 1004.69,
+      "size_bytes": 12057165
+    },
+    {
+      "number": 22,
+      "name_en": "Al-Hajj",
+      "name_ar": "الحج",
+      "file": "022-al-hajj.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/022-al-hajj.mp3",
+      "duration_seconds": 1072.73,
+      "size_bytes": 12873357
+    },
+    {
+      "number": 23,
+      "name_en": "Al-Mu'minun",
+      "name_ar": "المؤمنون",
+      "file": "023-al-muminun.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/023-al-muminun.mp3",
+      "duration_seconds": 880.4,
+      "size_bytes": 10565613
+    },
+    {
+      "number": 24,
+      "name_en": "An-Nur",
+      "name_ar": "النور",
+      "file": "024-an-nur.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/024-an-nur.mp3",
+      "duration_seconds": 1056.15,
+      "size_bytes": 12674637
+    },
+    {
+      "number": 25,
+      "name_en": "Al-Furqan",
+      "name_ar": "الفرقان",
+      "file": "025-al-furqan.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/025-al-furqan.mp3",
+      "duration_seconds": 746.09,
+      "size_bytes": 8953965
+    },
+    {
+      "number": 26,
+      "name_en": "Ash-Shu'ara",
+      "name_ar": "الشعراء",
+      "file": "026-ash-shuara.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/026-ash-shuara.mp3",
+      "duration_seconds": 1031.81,
+      "size_bytes": 12382605
+    },
+    {
+      "number": 27,
+      "name_en": "An-Naml",
+      "name_ar": "النمل",
+      "file": "027-an-naml.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/027-an-naml.mp3",
+      "duration_seconds": 940.51,
+      "size_bytes": 11287053
+    },
+    {
+      "number": 28,
+      "name_en": "Al-Qasas",
+      "name_ar": "القصص",
+      "file": "028-al-qasas.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/028-al-qasas.mp3",
+      "duration_seconds": 1112.2,
+      "size_bytes": 13347117
+    },
+    {
+      "number": 29,
+      "name_en": "Al-Ankabut",
+      "name_ar": "العنكبوت",
+      "file": "029-al-ankabut.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/029-al-ankabut.mp3",
+      "duration_seconds": 767.06,
+      "size_bytes": 9205389
+    },
+    {
+      "number": 30,
+      "name_en": "Ar-Rum",
+      "name_ar": "الروم",
+      "file": "030-ar-rum.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/030-ar-rum.mp3",
+      "duration_seconds": 630.34,
+      "size_bytes": 7564941
+    },
+    {
+      "number": 31,
+      "name_en": "Luqman",
+      "name_ar": "لقمان",
+      "file": "031-luqman.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/031-luqman.mp3",
+      "duration_seconds": 430.83,
+      "size_bytes": 5170797
+    },
+    {
+      "number": 32,
+      "name_en": "As-Sajdah",
+      "name_ar": "السجدة",
+      "file": "032-as-sajdah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/032-as-sajdah.mp3",
+      "duration_seconds": 303.54,
+      "size_bytes": 3643245
+    },
+    {
+      "number": 33,
+      "name_en": "Al-Ahzab",
+      "name_ar": "الأحزاب",
+      "file": "033-al-ahzab.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/033-al-ahzab.mp3",
+      "duration_seconds": 1083.04,
+      "size_bytes": 12997197
+    },
+    {
+      "number": 34,
+      "name_en": "Saba",
+      "name_ar": "سبأ",
+      "file": "034-saba.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/034-saba.mp3",
+      "duration_seconds": 658.2,
+      "size_bytes": 7899309
+    },
+    {
+      "number": 35,
+      "name_en": "Fatir",
+      "name_ar": "فاطر",
+      "file": "035-fatir.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/035-fatir.mp3",
+      "duration_seconds": 580.97,
+      "size_bytes": 6972525
+    },
+    {
+      "number": 36,
+      "name_en": "Ya-Sin",
+      "name_ar": "يس",
+      "file": "036-ya-sin.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/036-ya-sin.mp3",
+      "duration_seconds": 572.69,
+      "size_bytes": 6872877
+    },
+    {
+      "number": 37,
+      "name_en": "As-Saffat",
+      "name_ar": "الصافات",
+      "file": "037-as-saffat.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/037-as-saffat.mp3",
+      "duration_seconds": 746.97,
+      "size_bytes": 8964333
+    },
+    {
+      "number": 38,
+      "name_en": "Sad",
+      "name_ar": "ص",
+      "file": "038-sad.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/038-sad.mp3",
+      "duration_seconds": 600.2,
+      "size_bytes": 7203213
+    },
+    {
+      "number": 39,
+      "name_en": "Az-Zumar",
+      "name_ar": "الزمر",
+      "file": "039-az-zumar.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/039-az-zumar.mp3",
+      "duration_seconds": 935.22,
+      "size_bytes": 11223405
+    },
+    {
+      "number": 40,
+      "name_en": "Ghafir",
+      "name_ar": "غافر",
+      "file": "040-ghafir.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/040-ghafir.mp3",
+      "duration_seconds": 965.47,
+      "size_bytes": 11586573
+    },
+    {
+      "number": 41,
+      "name_en": "Fussilat",
+      "name_ar": "فصلت",
+      "file": "041-fussilat.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/041-fussilat.mp3",
+      "duration_seconds": 636.7,
+      "size_bytes": 7641261
+    },
+    {
+      "number": 42,
+      "name_en": "Ash-Shura",
+      "name_ar": "الشورى",
+      "file": "042-ash-shura.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/042-ash-shura.mp3",
+      "duration_seconds": 671.28,
+      "size_bytes": 8055981
+    },
+    {
+      "number": 43,
+      "name_en": "Az-Zukhruf",
+      "name_ar": "الزخرف",
+      "file": "043-az-zukhruf.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/043-az-zukhruf.mp3",
+      "duration_seconds": 708.87,
+      "size_bytes": 8507277
+    },
+    {
+      "number": 44,
+      "name_en": "Ad-Dukhan",
+      "name_ar": "الدخان",
+      "file": "044-ad-dukhan.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/044-ad-dukhan.mp3",
+      "duration_seconds": 296.23,
+      "size_bytes": 3555405
+    },
+    {
+      "number": 45,
+      "name_en": "Al-Jathiyah",
+      "name_ar": "الجاثية",
+      "file": "045-al-jathiyah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/045-al-jathiyah.mp3",
+      "duration_seconds": 386.09,
+      "size_bytes": 4633965
+    },
+    {
+      "number": 46,
+      "name_en": "Al-Ahqaf",
+      "name_ar": "الأحقاف",
+      "file": "046-al-ahqaf.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/046-al-ahqaf.mp3",
+      "duration_seconds": 504.86,
+      "size_bytes": 6058989
+    },
+    {
+      "number": 47,
+      "name_en": "Muhammad",
+      "name_ar": "محمد",
+      "file": "047-muhammad.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/047-muhammad.mp3",
+      "duration_seconds": 465.27,
+      "size_bytes": 5584077
+    },
+    {
+      "number": 48,
+      "name_en": "Al-Fath",
+      "name_ar": "الفتح",
+      "file": "048-al-fath.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/048-al-fath.mp3",
+      "duration_seconds": 454.31,
+      "size_bytes": 5452461
+    },
+    {
+      "number": 49,
+      "name_en": "Al-Hujurat",
+      "name_ar": "الحجرات",
+      "file": "049-al-hujurat.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/049-al-hujurat.mp3",
+      "duration_seconds": 278.84,
+      "size_bytes": 3346893
+    },
+    {
+      "number": 50,
+      "name_en": "Qaf",
+      "name_ar": "ق",
+      "file": "050-qaf.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/050-qaf.mp3",
+      "duration_seconds": 316.55,
+      "size_bytes": 3799341
+    },
+    {
+      "number": 51,
+      "name_en": "Adh-Dhariyat",
+      "name_ar": "الذاريات",
+      "file": "051-adh-dhariyat.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/051-adh-dhariyat.mp3",
+      "duration_seconds": 303.31,
+      "size_bytes": 3640365
+    },
+    {
+      "number": 52,
+      "name_en": "At-Tur",
+      "name_ar": "الطور",
+      "file": "052-at-tur.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/052-at-tur.mp3",
+      "duration_seconds": 258.77,
+      "size_bytes": 3106125
+    },
+    {
+      "number": 53,
+      "name_en": "An-Najm",
+      "name_ar": "النجم",
+      "file": "053-an-najm.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/053-an-najm.mp3",
+      "duration_seconds": 297.62,
+      "size_bytes": 3572109
+    },
+    {
+      "number": 54,
+      "name_en": "Al-Qamar",
+      "name_ar": "القمر",
+      "file": "054-al-qamar.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/054-al-qamar.mp3",
+      "duration_seconds": 315.04,
+      "size_bytes": 3781197
+    },
+    {
+      "number": 55,
+      "name_en": "Ar-Rahman",
+      "name_ar": "الرحمن",
+      "file": "055-ar-rahman.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/055-ar-rahman.mp3",
+      "duration_seconds": 371.02,
+      "size_bytes": 4453101
+    },
+    {
+      "number": 56,
+      "name_en": "Al-Waqi'ah",
+      "name_ar": "الواقعة",
+      "file": "056-al-waqiah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/056-al-waqiah.mp3",
+      "duration_seconds": 328.16,
+      "size_bytes": 3938733
+    },
+    {
+      "number": 57,
+      "name_en": "Al-Hadid",
+      "name_ar": "الحديد",
+      "file": "057-al-hadid.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/057-al-hadid.mp3",
+      "duration_seconds": 501.33,
+      "size_bytes": 6016653
+    },
+    {
+      "number": 58,
+      "name_en": "Al-Mujadila",
+      "name_ar": "المجادلة",
+      "file": "058-al-mujadila.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/058-al-mujadila.mp3",
+      "duration_seconds": 391.52,
+      "size_bytes": 4699053
+    },
+    {
+      "number": 59,
+      "name_en": "Al-Hashr",
+      "name_ar": "الحشر",
+      "file": "059-al-hashr.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/059-al-hashr.mp3",
+      "duration_seconds": 376.73,
+      "size_bytes": 4521645
+    },
+    {
+      "number": 60,
+      "name_en": "Al-Mumtahanah",
+      "name_ar": "الممتحنة",
+      "file": "060-al-mumtahanah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/060-al-mumtahanah.mp3",
+      "duration_seconds": 293.23,
+      "size_bytes": 3519693
+    },
+    {
+      "number": 61,
+      "name_en": "As-Saff",
+      "name_ar": "الصف",
+      "file": "061-as-saff.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/061-as-saff.mp3",
+      "duration_seconds": 183.57,
+      "size_bytes": 2203533
+    },
+    {
+      "number": 62,
+      "name_en": "Al-Jumu'ah",
+      "name_ar": "الجمعة",
+      "file": "062-al-jumuah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/062-al-jumuah.mp3",
+      "duration_seconds": 144.03,
+      "size_bytes": 1729197
+    },
+    {
+      "number": 63,
+      "name_en": "Al-Munafiqun",
+      "name_ar": "المنافقون",
+      "file": "063-al-munafiqun.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/063-al-munafiqun.mp3",
+      "duration_seconds": 166.55,
+      "size_bytes": 1999341
+    },
+    {
+      "number": 64,
+      "name_en": "At-Taghabun",
+      "name_ar": "التغابن",
+      "file": "064-at-taghabun.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/064-at-taghabun.mp3",
+      "duration_seconds": 225.59,
+      "size_bytes": 2707821
+    },
+    {
+      "number": 65,
+      "name_en": "At-Talaq",
+      "name_ar": "الطلاق",
+      "file": "065-at-talaq.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/065-at-talaq.mp3",
+      "duration_seconds": 251.58,
+      "size_bytes": 3019725
+    },
+    {
+      "number": 66,
+      "name_en": "At-Tahrim",
+      "name_ar": "التحريم",
+      "file": "066-at-tahrim.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/066-at-tahrim.mp3",
+      "duration_seconds": 240.06,
+      "size_bytes": 2881485
+    },
+    {
+      "number": 67,
+      "name_en": "Al-Mulk",
+      "name_ar": "الملك",
+      "file": "067-al-mulk.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/067-al-mulk.mp3",
+      "duration_seconds": 265.67,
+      "size_bytes": 3188781
+    },
+    {
+      "number": 68,
+      "name_en": "Al-Qalam",
+      "name_ar": "القلم",
+      "file": "068-al-qalam.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/068-al-qalam.mp3",
+      "duration_seconds": 281.46,
+      "size_bytes": 3378285
+    },
+    {
+      "number": 69,
+      "name_en": "Al-Haqqah",
+      "name_ar": "الحاقة",
+      "file": "069-al-haqqah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/069-al-haqqah.mp3",
+      "duration_seconds": 231.7,
+      "size_bytes": 2781261
+    },
+    {
+      "number": 70,
+      "name_en": "Al-Ma'arij",
+      "name_ar": "المعارج",
+      "file": "070-al-maarij.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/070-al-maarij.mp3",
+      "duration_seconds": 206.44,
+      "size_bytes": 2477997
+    },
+    {
+      "number": 71,
+      "name_en": "Nuh",
+      "name_ar": "نوح",
+      "file": "071-nuh.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/071-nuh.mp3",
+      "duration_seconds": 188.51,
+      "size_bytes": 2262861
+    },
+    {
+      "number": 72,
+      "name_en": "Al-Jinn",
+      "name_ar": "الجن",
+      "file": "072-al-jinn.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/072-al-jinn.mp3",
+      "duration_seconds": 242.2,
+      "size_bytes": 2907117
+    },
+    {
+      "number": 73,
+      "name_en": "Al-Muzzammil",
+      "name_ar": "المزمل",
+      "file": "073-al-muzzammil.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/073-al-muzzammil.mp3",
+      "duration_seconds": 181.73,
+      "size_bytes": 2181645
+    },
+    {
+      "number": 74,
+      "name_en": "Al-Muddaththir",
+      "name_ar": "المدثر",
+      "file": "074-al-muddaththir.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/074-al-muddaththir.mp3",
+      "duration_seconds": 220.02,
+      "size_bytes": 2641005
+    },
+    {
+      "number": 75,
+      "name_en": "Al-Qiyamah",
+      "name_ar": "القيامة",
+      "file": "075-al-qiyamah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/075-al-qiyamah.mp3",
+      "duration_seconds": 160.0,
+      "size_bytes": 1920717
+    },
+    {
+      "number": 76,
+      "name_en": "Al-Insan",
+      "name_ar": "الإنسان",
+      "file": "076-al-insan.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/076-al-insan.mp3",
+      "duration_seconds": 210.87,
+      "size_bytes": 2531277
+    },
+    {
+      "number": 77,
+      "name_en": "Al-Mursalat",
+      "name_ar": "المرسلات",
+      "file": "077-al-mursalat.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/077-al-mursalat.mp3",
+      "duration_seconds": 176.88,
+      "size_bytes": 2123181
+    },
+    {
+      "number": 78,
+      "name_en": "An-Naba",
+      "name_ar": "النبأ",
+      "file": "078-an-naba.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/078-an-naba.mp3",
+      "duration_seconds": 164.22,
+      "size_bytes": 1971405
+    },
+    {
+      "number": 79,
+      "name_en": "An-Nazi'at",
+      "name_ar": "النازعات",
+      "file": "079-an-naziat.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/079-an-naziat.mp3",
+      "duration_seconds": 176.44,
+      "size_bytes": 2117997
+    },
+    {
+      "number": 80,
+      "name_en": "Abasa",
+      "name_ar": "عبس",
+      "file": "080-abasa.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/080-abasa.mp3",
+      "duration_seconds": 131.99,
+      "size_bytes": 1584621
+    },
+    {
+      "number": 81,
+      "name_en": "At-Takwir",
+      "name_ar": "التكوير",
+      "file": "081-at-takwir.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/081-at-takwir.mp3",
+      "duration_seconds": 111.07,
+      "size_bytes": 1333773
+    },
+    {
+      "number": 82,
+      "name_en": "Al-Infitar",
+      "name_ar": "الانفطار",
+      "file": "082-al-infitar.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/082-al-infitar.mp3",
+      "duration_seconds": 69.81,
+      "size_bytes": 838413
+    },
+    {
+      "number": 83,
+      "name_en": "Al-Mutaffifin",
+      "name_ar": "المطففين",
+      "file": "083-al-mutaffifin.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/083-al-mutaffifin.mp3",
+      "duration_seconds": 153.38,
+      "size_bytes": 1841229
+    },
+    {
+      "number": 84,
+      "name_en": "Al-Inshiqaq",
+      "name_ar": "الانشقاق",
+      "file": "084-al-inshiqaq.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/084-al-inshiqaq.mp3",
+      "duration_seconds": 105.38,
+      "size_bytes": 1265229
+    },
+    {
+      "number": 85,
+      "name_en": "Al-Buruj",
+      "name_ar": "البروج",
+      "file": "085-al-buruj.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/085-al-buruj.mp3",
+      "duration_seconds": 101.95,
+      "size_bytes": 1224045
+    },
+    {
+      "number": 86,
+      "name_en": "At-Tariq",
+      "name_ar": "الطارق",
+      "file": "086-at-tariq.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/086-at-tariq.mp3",
+      "duration_seconds": 64.98,
+      "size_bytes": 780525
+    },
+    {
+      "number": 87,
+      "name_en": "Al-A'la",
+      "name_ar": "الأعلى",
+      "file": "087-al-ala.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/087-al-ala.mp3",
+      "duration_seconds": 82.56,
+      "size_bytes": 991341
+    },
+    {
+      "number": 88,
+      "name_en": "Al-Ghashiyah",
+      "name_ar": "الغاشية",
+      "file": "088-al-ghashiyah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/088-al-ghashiyah.mp3",
+      "duration_seconds": 91.8,
+      "size_bytes": 1102509
+    },
+    {
+      "number": 89,
+      "name_en": "Al-Fajr",
+      "name_ar": "الفجر",
+      "file": "089-al-fajr.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/089-al-fajr.mp3",
+      "duration_seconds": 134.55,
+      "size_bytes": 1615437
+    },
+    {
+      "number": 90,
+      "name_en": "Al-Balad",
+      "name_ar": "البلد",
+      "file": "090-al-balad.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/090-al-balad.mp3",
+      "duration_seconds": 76.22,
+      "size_bytes": 915309
+    },
+    {
+      "number": 91,
+      "name_en": "Ash-Shams",
+      "name_ar": "الشمس",
+      "file": "091-ash-shams.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/091-ash-shams.mp3",
+      "duration_seconds": 75.08,
+      "size_bytes": 901773
+    },
+    {
+      "number": 92,
+      "name_en": "Al-Layl",
+      "name_ar": "الليل",
+      "file": "092-al-layl.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/092-al-layl.mp3",
+      "duration_seconds": 83.35,
+      "size_bytes": 1000845
+    },
+    {
+      "number": 93,
+      "name_en": "Ad-Duha",
+      "name_ar": "الضحى",
+      "file": "093-ad-duha.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/093-ad-duha.mp3",
+      "duration_seconds": 54.62,
+      "size_bytes": 656397
+    },
+    {
+      "number": 94,
+      "name_en": "Ash-Sharh",
+      "name_ar": "الشرح",
+      "file": "094-ash-sharh.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/094-ash-sharh.mp3",
+      "duration_seconds": 38.51,
+      "size_bytes": 462861
+    },
+    {
+      "number": 95,
+      "name_en": "At-Tin",
+      "name_ar": "التين",
+      "file": "095-at-tin.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/095-at-tin.mp3",
+      "duration_seconds": 39.0,
+      "size_bytes": 468621
+    },
+    {
+      "number": 96,
+      "name_en": "Al-Alaq",
+      "name_ar": "العلق",
+      "file": "096-al-alaq.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/096-al-alaq.mp3",
+      "duration_seconds": 85.81,
+      "size_bytes": 1030509
+    },
+    {
+      "number": 97,
+      "name_en": "Al-Qadr",
+      "name_ar": "القدر",
+      "file": "097-al-qadr.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/097-al-qadr.mp3",
+      "duration_seconds": 29.69,
+      "size_bytes": 356877
+    },
+    {
+      "number": 98,
+      "name_en": "Al-Bayyinah",
+      "name_ar": "البينة",
+      "file": "098-al-bayyinah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/098-al-bayyinah.mp3",
+      "duration_seconds": 76.06,
+      "size_bytes": 913581
+    },
+    {
+      "number": 99,
+      "name_en": "Az-Zalzalah",
+      "name_ar": "الزلزلة",
+      "file": "099-az-zalzalah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/099-az-zalzalah.mp3",
+      "duration_seconds": 35.24,
+      "size_bytes": 423693
+    },
+    {
+      "number": 100,
+      "name_en": "Al-Adiyat",
+      "name_ar": "العاديات",
+      "file": "100-al-adiyat.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/100-al-adiyat.mp3",
+      "duration_seconds": 44.71,
+      "size_bytes": 537165
+    },
+    {
+      "number": 101,
+      "name_en": "Al-Qari'ah",
+      "name_ar": "القارعة",
+      "file": "101-al-qariah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/101-al-qariah.mp3",
+      "duration_seconds": 38.12,
+      "size_bytes": 458253
+    },
+    {
+      "number": 102,
+      "name_en": "At-Takathur",
+      "name_ar": "التكاثر",
+      "file": "102-at-takathur.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/102-at-takathur.mp3",
+      "duration_seconds": 35.96,
+      "size_bytes": 432333
+    },
+    {
+      "number": 103,
+      "name_en": "Al-Asr",
+      "name_ar": "العصر",
+      "file": "103-al-asr.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/103-al-asr.mp3",
+      "duration_seconds": 18.84,
+      "size_bytes": 226989
+    },
+    {
+      "number": 104,
+      "name_en": "Al-Humazah",
+      "name_ar": "الهمزة",
+      "file": "104-al-humazah.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/104-al-humazah.mp3",
+      "duration_seconds": 37.14,
+      "size_bytes": 446445
+    },
+    {
+      "number": 105,
+      "name_en": "Al-Fil",
+      "name_ar": "الفيل",
+      "file": "105-al-fil.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/105-al-fil.mp3",
+      "duration_seconds": 25.07,
+      "size_bytes": 301581
+    },
+    {
+      "number": 106,
+      "name_en": "Quraysh",
+      "name_ar": "قريش",
+      "file": "106-quraysh.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/106-quraysh.mp3",
+      "duration_seconds": 21.75,
+      "size_bytes": 261837
+    },
+    {
+      "number": 107,
+      "name_en": "Al-Ma'un",
+      "name_ar": "الماعون",
+      "file": "107-al-maun.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/107-al-maun.mp3",
+      "duration_seconds": 29.34,
+      "size_bytes": 352845
+    },
+    {
+      "number": 108,
+      "name_en": "Al-Kauthar",
+      "name_ar": "الكوثر",
+      "file": "108-al-kauthar.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/108-al-kauthar.mp3",
+      "duration_seconds": 21.35,
+      "size_bytes": 256941
+    },
+    {
+      "number": 109,
+      "name_en": "Al-Kafirun",
+      "name_ar": "الكافرون",
+      "file": "109-al-kafirun.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/109-al-kafirun.mp3",
+      "duration_seconds": 36.47,
+      "size_bytes": 438381
+    },
+    {
+      "number": 110,
+      "name_en": "An-Nasr",
+      "name_ar": "النصر",
+      "file": "110-an-nasr.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/110-an-nasr.mp3",
+      "duration_seconds": 27.2,
+      "size_bytes": 327213
+    },
+    {
+      "number": 111,
+      "name_en": "Al-Masad",
+      "name_ar": "المسد",
+      "file": "111-al-masad.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/111-al-masad.mp3",
+      "duration_seconds": 23.58,
+      "size_bytes": 283725
+    },
+    {
+      "number": 112,
+      "name_en": "Al-Ikhlas",
+      "name_ar": "الإخلاص",
+      "file": "112-al-ikhlas.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/112-al-ikhlas.mp3",
+      "duration_seconds": 21.72,
+      "size_bytes": 261549
+    },
+    {
+      "number": 113,
+      "name_en": "Al-Falaq",
+      "name_ar": "الفلق",
+      "file": "113-al-falaq.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/113-al-falaq.mp3",
+      "duration_seconds": 25.46,
+      "size_bytes": 306189
+    },
+    {
+      "number": 114,
+      "name_en": "An-Naas",
+      "name_ar": "الناس",
+      "file": "114-an-naas.mp3",
+      "url": "https://github.com/haiderreminds/urdu-quran-audio/releases/download/v1.0/114-an-naas.mp3",
+      "duration_seconds": 29.48,
+      "size_bytes": 354573
+    }
+  ]
+}
